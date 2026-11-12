@@ -77,7 +77,7 @@
   "github_repo": "resilio-sync",
   "upstream_version": "3.1.2",
   "release_tag_prefix": "v",
-  "version": "3.1.2-1",
+  "version": "3.1.2-2",
   "help": "https://github.com/Moechz/resilio-sync/issues",
   "official": "https://github.com/rtorrent-ps/resilio-sync",
   "license": "Proprietary",
